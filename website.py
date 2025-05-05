@@ -11,7 +11,7 @@ Users can interactively explore global air quality metrics with this Streamlit a
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
-import matplotlib.pyplot as plt
+
 import seaborn as sns
 import plotly.express as px
 
